@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Jiyu Chen"
-  avatar           : "images/profile.png"
-  bio              : "PhD Student"
-  location         : "U. of Melbourne, AU"
+  avatar           : "profile.png"
+  bio              : "PhD Student, Computing"
+  location         : "Uni. of Melbourne, AU"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=t-Avl9sAAAAJ&hl=en"
   email            :
   researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/jiyuch"
   vine             :
   weibo            :
   xing             :
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _project
+  # _portfolio
   - scope:
       path: ""
-      type: project
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+google_analytics: UA-153992742-1

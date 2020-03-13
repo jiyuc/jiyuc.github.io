@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computing, University of Melbourne, 2019 - 2023 (expected)
+* MSc. in Computer Science, University of Melbourne, 2017 - 2019
+* BEng. in Information Security, Nanjing University of Posts and Telecommunications, 2013 - 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2016: Software Developer Intern
+  * Huawei Technology, Chengdu, China
+  * Duty: studying and deploying object-oriented programming design pattern; configuring and monitoring on hardware status in Linux system. My team focus on the implementation of SDH communication networks.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills: Python, Java, a little bit Haskell
+* Professional skills: text mining and natural language processing, machine learning, cloud computing, mobile computing
+* Platforms: NLTK, sklearn, numpy, keras, Tensorflow, Jupyter notebook, Google Cloud, Linux
+* Spoken languages: English (PTE: overall 80) and Mandarin (native)
 
 Publications
 ======
@@ -47,13 +40,8 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+    
+Activity
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Member of Association for Computational Linguistics (ACL)
+* Invited Participants of Facebook Hackathon, Melbourne 2019 May
