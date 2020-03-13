@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=t-Avl9sAAAAJ&hl=en"
-  email            :
+  email            : "jiyuc@student.unimelb.edu.au"
   researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jiyuc/"
+  linkedin         : "jiyuc"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/jiyuch"
+  twitter          : "jiyuch"
   vine             :
   weibo            :
   xing             :
@@ -309,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-google_analytics: UA-153992742-1
