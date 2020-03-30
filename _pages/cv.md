@@ -43,6 +43,4 @@ Activity
 * Member of Association for Computational Linguistics (ACL)
 * Invited Participants of Facebook Hackathon, Melbourne 2019 May
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5f7alrotxyu&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
-
 <a href="https://info.flagcounter.com/2o8I"><img src="https://s01.flagcounter.com/count/2o8I/bg_FFFFFF/txt_000000/border_FFFFFF/columns_5/maxflags_12/viewers_Hits/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
