@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PhD candidate at the School of Computing and Information Systems, the University of Melbourne. My research focuses on text mining and its application, and is committed to push the edge of modern biomedical research. I am under the supervision of [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), and [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en). 
+I am a PhD candidate at the School of Computing and Information Systems, the University of Melbourne. My research focuses on text mining and its application, and is committing to push the edge of modern biomedical research. I am under the supervision of [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), and [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en). 
 
 Annotations:
 #BioNLP #AI-DigitalHealth
