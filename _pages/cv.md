@@ -26,23 +26,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Academic Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Work Experience
 ======
   * Summer 2016: Software Developer Intern
   * Huawei Technology, Chengdu, China
   * Duty: studying and deploying object-oriented programming design pattern; configuring and monitoring on hardware status in Linux system. My team focus on the implementation of SDH communication networks.
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
     
 Activity
 ======
