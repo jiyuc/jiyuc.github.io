@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I am currently a PhD candidate at the School of Computing and Information Systems, the University of Melbourne. My research focus on text mining and the application of which, in favor of pushing the edge of modern biological and health research. I am currently under the supervision of [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), and [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en).
+
 * Programming skills: Python, Java, a little bit Haskell
 * Professional skills: text mining and natural language processing, machine learning, cloud computing, mobile computing
 * Platforms: NLTK, sklearn, numpy, keras, Tensorflow, Jupyter notebook, Google Cloud, Linux
