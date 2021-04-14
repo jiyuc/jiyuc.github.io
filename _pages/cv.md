@@ -26,6 +26,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Academic Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
 Work Experience
 ======
 * Summer 2016: Software Developer Intern
