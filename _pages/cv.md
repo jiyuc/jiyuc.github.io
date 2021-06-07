@@ -33,9 +33,9 @@ Publications
   
 Work Experience
 ======
-  * Summer 2016: Software Developer Intern
-  * [Chengdu Research Center, Huawei Technologies Co., Ltd, China](https://www.huawei.com)
-  * Duty: studying and deploying object-oriented programming design pattern; configuring and monitoring on hardware status in Linux system. My team focus on the implementation of SDH communication networks.
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
     
 Activity
 ======
