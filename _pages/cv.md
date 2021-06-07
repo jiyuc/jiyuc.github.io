@@ -24,18 +24,6 @@ Education
 * Ph.D in Computing, University of Melbourne, 2019 - 2023 (expected)
 * MSc. in Computer Science, University of Melbourne, 2017 - 2019
 * BEng. in Information Security, Nanjing University of Posts and Telecommunications, 2013 - 2017
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Work Experience
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
     
 Activity
 ======
