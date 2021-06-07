@@ -9,15 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PhD candidate at the School of Computing and Information Systems, the University of Melbourne. My research focuses on text mining and its application, and is committing to push the edge of modern biomedical research. I am under the supervision of [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), and [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en). 
+Jiyu is a PhD candidate at the School of Computing and Information Systems, the University of Melbourne. My research focuses on text mining and its application, and is committing to push the edge of modern biomedical research. I am under the supervision of [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), and [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en). 
 
 Annotations:
 #BioNLP #AI-DigitalHealth
 
-* Programming skills: Python, Java, a little bit Haskell
-* Professional skills: text mining and natural language processing, machine learning, cloud computing, mobile computing
-* Platforms: NLTK, sklearn, numpy, keras, Tensorflow, Jupyter notebook, Google Cloud, Linux
-* Spoken languages: English (PTE: overall 80) and Mandarin (native)
+* Computational Linguistics, Data Mining, Bioinformatics
+* Communication: English and Mandarin (native)
 
 Education
 ======
@@ -27,6 +25,7 @@ Education
     
 Activity
 ======
+* [Invited presenter at 14th Annual Biocuration Conference Session 2, 2021](https://www.biocuration.org/14th-annual-biocuration-conference-virtual/)
 * [Member of Association for Computational Linguistics (ACL)](https://www.aclweb.org/portal/)
 * Invited Participants of Facebook Hackathon, Melbourne 2019 May
 
