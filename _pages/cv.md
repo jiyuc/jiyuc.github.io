@@ -29,6 +29,6 @@ Miscellaneous
 * [Presenter at 14th Annual Biocuration Conference, *Session 2, 2021*](https://www.biocuration.org/14th-annual-biocuration-conference-virtual/)
 * [Member of International Society for Computational Biology (*ISCB*)](https://www.iscb.org/index.php)
 * [Member of Association for Computational Linguistics (*ACL*)](https://www.aclweb.org/portal/)
-* Member of NLP (Natural Language Processing) Reading Group, *University of Melbourne*
+* [Member of NLP (Natural Language Processing) Reading Group, *University of Melbourne*](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing)
 
 <a href="https://info.flagcounter.com/2o8I"><img src="https://s01.flagcounter.com/count/2o8I/bg_FFFFFF/txt_000000/border_FFFFFF/columns_5/maxflags_12/viewers_Hits/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
