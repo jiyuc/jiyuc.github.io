@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Ph.D. candidate at the School of Computing and Information Systems, the University of Melbourne; Under the supervision of [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), and [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en). #BioNLP #AI-DigitalHealth
+Ph.D. candidate at the School of Computing and Information Systems, the University of Melbourne; In supervision of [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), and [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en). #BioNLP #AI-DigitalHealth
 
 Contact Me in
-English or Mandarin (native)
+English or 中文
 
 Research Fields:
-* Computational Linguistics, Data Mining, Bioinformatics
+* BioNLP, Computational Linguistics, Data Mining
 
 Education
 ======
@@ -25,7 +25,6 @@ Education
   
 Miscellaneous
 ======
-* [Presenter at 30th Conference on Intelligent Systems for Molecular Biology, Madison USA, *July 10-14, 2022*](https://www.iscb.org/ismb2022)
 * [Presenter at 14th Annual Biocuration Conference, *Session 2, 2021*](https://www.biocuration.org/14th-annual-biocuration-conference-virtual/)
 * [Member of International Society for Computational Biology (*ISCB*)](https://www.iscb.org/index.php)
 * [Member of Association for Computational Linguistics (*ACL*)](https://www.aclweb.org/portal/)
