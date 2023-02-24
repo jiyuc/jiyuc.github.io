@@ -15,7 +15,7 @@ Contact Me in
 English or 中文
 
 Research Fields:
-* BioNLP, Computational Linguistics, Data Mining
+* BioNLP, Computational Linguistics, Data(Text) Mining
 
 Education
 ======
@@ -25,6 +25,7 @@ Education
   
 Miscellaneous
 ======
+* [Visitor at the National Institute of Health (NIH/NLM/NCBI), USA, 2023](https://www.ncbi.nlm.nih.gov/research/bionlp/)
 * [Presenter at 14th Annual Biocuration Conference, *Session 2, 2021*](https://www.biocuration.org/14th-annual-biocuration-conference-virtual/)
 * [Member of International Society for Computational Biology (*ISCB*)](https://www.iscb.org/index.php)
 * [Member of Association for Computational Linguistics (*ACL*)](https://www.aclweb.org/portal/)
