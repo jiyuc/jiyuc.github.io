@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Ph.D. candidate at the School of Computing and Information Systems, the University of Melbourne; In supervision of [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), and [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en). #BioNLP #AI-DigitalHealth
+PhD candidate at the School of Computing and Information Systems, the University of Melbourne; Being supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), and [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en). #BioNLP #AI-DigitalHealth
 
 Contact Me in
 English or 中文
