@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jiyu Chen | 陈及煜"
 title_separator          : "-"
-name                     : &name "Jiyu Chen"
+name                     : &name "Jiyu Chen, PHD"
 description              : &description "Portfolio"
 url                      : "https://jiyuc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
