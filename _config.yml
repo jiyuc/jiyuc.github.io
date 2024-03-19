@@ -83,10 +83,10 @@ author:
   name             : "Jiyu Chen"
   avatar           : "profile.png"
   bio              : "Computational Linguistics, Bioinformatics & Data Mining"
-  location         : "Research Fellow at CSIRO | PhD at the Uni. of Melbourne, AU"
-  employer         :
+  education        : "PhD at the Uni. of Melbourne, AU"
+  employer         : "Research Fellow @ CSIRO"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=t-Avl9sAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=1nBBRbIAAAAJ"
   email            : "jiyuchen.ai@gmail.com"
   researchgate     :  #example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
