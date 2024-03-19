@@ -9,17 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Postdoctoral research fellow at [CSIRO](https://www.csiro.au); PhD(*thesis submitted*) supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en), at the School of Computing and Information Systems, the University of Melbourne. I excel in applying computational techniques, including natural language processing, machine learning, and bioinformatics to solve real-world challenges. I've led projects automating quality assurance for gene ontology annotation, extracting semantic relations from electronic health records, and applying NLP and social media analysis for mental well-being.
+Postdoctoral research fellow at [CSIRO's Data61](https://www.csiro.au); PhD at the School of Computing and Information Systems, the University of Melbourne. Supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Dr. Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en).
 
 Contact Me in
-English or Mandarin(简)
+English or 简中
 
 Research Fields:
-* BioNLP, Computational Linguistics, Data(Text) Mining, Bioinformatics
+* Computational Linguistics, Data(Text) Mining, Affective Computing, Bioinformatics
 
-Education
+Experience
 ======
-* Ph.D. in Computing (*AI-Digital Health*), University of Melbourne, *2020 - present*
+* Postdoc @ CSIRO's Data61, Sydney, *2023 - present*
+* Ph.D. in Computing (*NLProc*), University of Melbourne, *2020 - 2023*
 * M.Sc. in Computer Science, University of Melbourne, *2017 - 2019*
 * B.Eng. in Information Security, Nanjing University of Posts and Telecommunications, *2013 - 2017*
   
