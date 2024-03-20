@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Postdoctoral research fellow at [CSIRO's Data61](https://www.csiro.au); PhD at the School of Computing and Information Systems, the University of Melbourne. Supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Dr. Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en).
+Postdoctoral research fellow at [CSIRO's Data61](https://www.csiro.au); PhD at the University of Melbourne, supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Dr. Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en). My research focuses on utilizing computational techniques like machine learning and natural language processing to tackle real-world challenges within broad scientific domain, including psychology, biology, and healthcare. My background includes assisting medical professionals by automating the extraction of interested information from electronic medical records, automating quality assessments for biological databases, integrating bio-ontologies into machine learning systems, and applying social media analysis for understanding emotion regulation in mental health resilience.
 
 Contact Me in
 English or 简中
