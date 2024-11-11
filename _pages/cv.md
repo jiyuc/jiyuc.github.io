@@ -11,12 +11,10 @@ redirect_from:
 
 Research fellow @ [CSIRO's Data61](https://www.csiro.au); PhD graduate from the University of Melbourne, supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Dr. Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en). 
 
-Research Interest: Applying natural language processing techniques to tackle real-world challenges in healthcare domain (Applied NLP for healthcare). I have implemented automatic solutions for extracting relations between biomedical entities within electronic medical records; streamlining quality assessments for biological databases; and incorporating bio-ontologies into machine learning frameworks. I am current working to help clinical psychologists to understand mental resilience (emotion regulation pattern) by applying text mining on large scale social media text.
+Research Interest: Applying natural language processing techniques to tackle real-world challenges in the healthcare domain (Applied NLP for healthcare). I have implemented automatic solutions for extracting relations between biomedical entities within electronic medical records (breast cancer); streamlining quality assessments for biological databases (gene/protein function knowledge); and incorporating bio-ontologies into machine learning frameworks (gene/protein function). I am current working to help clinical psychologists to understand mental resilience (emotion regulation pattern) by applying text mining on large scale social media text (mental health).
 
 Contact Me in
 English or 简中
-
-* #Computational Linguistics, #Data(Text) Mining, #Affective Computing, #Bioinformatics
 
 Experience
 ======
