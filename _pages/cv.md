@@ -9,20 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Postdoctoral research fellow at [CSIRO's Data61](https://www.csiro.au); PhD at the University of Melbourne, supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Dr. Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en). My research centers on leveraging computational techniques such as machine learning and natural language processing to address real-world challenges across diverse scientific domains, including psychology, biology, and healthcare. My expertise involves aiding medical professionals by automating information extraction from electronic medical records, streamlining quality assessments for biological databases, incorporating bio-ontologies into machine learning frameworks, and employing large language models to comprehend emotion regulation in mental health resilience.
+Research fellow @ [CSIRO's Data61](https://www.csiro.au); PhD graduate from the University of Melbourne, supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Dr. Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en). 
+
+Research Interest: Applying natural language processing techniques to tackle real-world challenges in healthcare domain (Applied NLP for healthcare). I have implemented automatic solutions for extracting relations between biomedical entities within electronic medical records; streamlining quality assessments for biological databases; and incorporating bio-ontologies into machine learning frameworks. I am current working to help clinical psychologists to understand mental resilience (emotion regulation pattern) by applying text mining on large scale social media text.
 
 Contact Me in
 English or 简中
 
-Research Fields:
-* Computational Linguistics, Data(Text) Mining, Affective Computing, Bioinformatics
+* #Computational Linguistics, #Data(Text) Mining, #Affective Computing, #Bioinformatics
 
 Experience
 ======
-* Postdoc at CSIRO's Data61, Sydney, *2023 - present*
-* Ph.D. in Computing (*NLProc*), University of Melbourne, *2020 - 2023*
-* M.Sc. in Computer Science, University of Melbourne, *2017 - 2019*
-* B.Eng. in Information Security, Nanjing University of Posts and Telecommunications, *2013 - 2017*
+* Research fellow at CSIRO's Data61, Sydney, *2023 - present*
+* Ph.D. in Computing (*NLProc*), University of Melbourne, Melbourne, *2020 - 2023*
+* M.Sc. in Computer Science, University of Melbourne, Melbourne, *2017 - 2019*
   
 Miscellaneous
 ======
