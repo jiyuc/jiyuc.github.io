@@ -1,6 +1,8 @@
 ---
 title: "Biological Database Quality Assessment"
-excerpt: "Feb 2020 – Aug 2023<br/>
+excerpt: "Feb 2020 – Aug 2023<br/>"
+collection: portfolio
+---
 **Situation:** NCBI Gene contains millions of gene ontology (GO) annotations, but many records include inconsistent or low-quality metadata, and no existing method can evaluate annotation quality at scale.
 
 **Task:** Develop an automated system that can identify poor-quality GO annotations by leveraging both the semantic information in biomedical literature and the structural knowledge in the GO graph.
@@ -11,6 +13,4 @@ excerpt: "Feb 2020 – Aug 2023<br/>
 
 Tech stack: Transformer, BERT, GNN, PyTorch, HuggingFace.
 
-[Link to the Project Archive](https://findanexpert.unimelb.edu.au/project/104203-automated-assessment-of-data-quality-in-biological-knowledge-resources)"
-collection: portfolio
----
+[Link to the Project Archive](https://findanexpert.unimelb.edu.au/project/104203-automated-assessment-of-data-quality-in-biological-knowledge-resources)
