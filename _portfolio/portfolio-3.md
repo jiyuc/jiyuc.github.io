@@ -1,5 +1,5 @@
 ---
-title: "A cultural-grounded LLM as Emotion Detector"
+title: "Developing Culturally Grounded Multilingual LLM for Emotion Detection"
 excerpt: "Sep 2024 – Jan 2025<br/>"
 collection: portfolio
 ---
