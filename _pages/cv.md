@@ -9,17 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-I am a Research fellow @ [CSIRO's Data61](https://www.csiro.au) where I work with [Dr. Cecile Paris](https://people.csiro.au/p/c/cecile-paris), [Dr. Sarvnaz Karimi](https://people.csiro.au/K/S/Sarvnaz-Karimi), and [Dr. Diego Molla-Aliod](https://researchers.mq.edu.au/en/persons/diego-molla-aliod/);
-Acquired PhD 🎓 from the University of Melbourne, supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Dr. Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en). 
+I am a postdoc research fellow @ [CSIRO's Data61](https://people.csiro.au/c/j/jiyu-chen) where I work with [Dr. Cecile Paris](https://people.csiro.au/p/c/cecile-paris), [Dr. Sarvnaz Karimi](https://people.csiro.au/K/S/Sarvnaz-Karimi), and [Dr. Diego Molla-Aliod](https://researchers.mq.edu.au/en/persons/diego-molla-aliod/);
+I acquired PhD 🎓 from the University of Melbourne, supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Dr. Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en). 
 
 My research focuses on the practical applications of NLP and large language models (LLMs) to address real-world challenges in healthcare. I’ve developed automatic solutions for extracting key information from electronic breast cancer follow-up treatment records, accelerating clinical research and decision-making. I also created an NLP-based automated quality assessment system for biological databases, enhancing the reliability of gene and protein function knowledge to support protein research. Additionally, I proposed an innovative approach to integrate bio-ontologies into machine learning frameworks, significantly improving the accuracy of gene function data quality assessments.
 
-At CSIRO, I led efforts to improve the explainability of LLMs for suicide ideation prediction in mental health, and directed a team in comprehensive evaluations of LLMs on affective computing tasks, including cross-lingual and cross-cultural emotion detection and time-series valence/arousal regression. I supervise researchers from national key research labs across multiple countries, leading projects that involve close cross-national, cross-institutional, and cross-domain collaboration. Currently, I’m working on a key research project that aims to assist clinical psychologists in identifying emotion regulation patterns from large-scale social media data, finding effective ways to help people build resilience for mental health.
+At CSIRO, I led efforts to improve the explainability of LLMs for suicide ideation prediction in mental health, and directed a team in comprehensive evaluations of LLMs on affective computing tasks, including cross-lingual and cross-cultural emotion detection and time-series valence/arousal regression. I supervise researchers from national key research labs of other countries, leading projects that involve close cross-national, cross-institutional, and cross-domain collaboration. Currently, I’m working on an scientific exploratory research project that aims to assist clinical psychologists in identifying emotion regulation patterns from large-scale social media data, finding effective ways to help people build resilience for mental health.
 
 📩 Contact Me in
 English or *简中*
 
-Experience 🤓 
+Experiences 🤓 
 ======
 * Research fellow at CSIRO's Data61, Sydney, *2023 - present*
 * Ph.D. in Computing (*NLProc*), University of Melbourne, Melbourne, *2020 - 2023*
