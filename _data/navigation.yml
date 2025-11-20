@@ -5,12 +5,12 @@ main:
     
   - title: "Works"
     url: /teaching/
+    
+  - title: "Projects"
+    url: /portfolio/
 
   - title: "Talks"
     url: /talks/
-    
-  - title: "Project"
-    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
