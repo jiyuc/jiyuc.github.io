@@ -1,6 +1,6 @@
 ---
-title: "Exploration of automatic relation extraction in narrow knowledge domain with limited data"
-excerpt: "March 2018 – June 2019<br/>"
+title: "Biological Database Quality Assessment"
+excerpt: "Feb 2020 – Aug 2023<br/>"
 collection: portfolio
 ---
 **Situation:** NCBI Gene contains millions of gene ontology (GO) annotations, but many records include inconsistent or low-quality metadata, and no existing method can evaluate annotation quality at scale.
