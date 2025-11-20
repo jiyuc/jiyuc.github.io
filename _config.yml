@@ -8,29 +8,29 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Jiyu Chen | 陈及煜"
 title_separator          : "-"
 name                     : &name "Jiyu Chen, PHD"
-description              : &description "Portfolio"
-url                      : "https://jiyuc.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://jiyuc.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               :
-site_theme               : "default" # Currently available options are "default", "air"
-
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  pronouns         : # example: "she/her"
+  avatar           : "profile.png"
+  name             : "Jiyu Chen"
+  pronouns         : # example: "she/her"  
+  bio              : "Computational Linguistics, Affective Computing & Bioinformatics"
+  location         : "Sydney"
   employer         : "CSIRO's Data61"
   uri              : # URL
-  name: "Jiyu Chen"
-  avatar: "profile.png"
-  bio: "Computational Linguistics, Affective Computing & Bioinformatics"
-  location: "Sydney"
-  email: "jiyuchen.ai@gmail.com"
+  email            : "jiyuchen.ai@gmail.org" 
 
   # Academic websites
   academia         : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=1nBBRbIAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # ORCID
+  orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : #
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : # Username
+  bluesky          : #
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -152,9 +152,9 @@ social:
 
 # Analytics
 analytics:
+  provider               :  "google" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          : G-GW28GVEDR8
-
 
 
 # Reading Files
@@ -255,7 +255,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: work
+      type: teaching
     values:
       layout: single
       author_profile: true
