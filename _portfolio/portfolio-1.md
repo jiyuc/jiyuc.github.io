@@ -3,4 +3,14 @@ title: "Exploration of automatic relation extraction in narrow knowledge domain 
 excerpt: "March 2018 – June 2019<br/>"
 collection: portfolio
 ---
-This project focuses on a traditional relation extraction task in the context of limited annotated data and a narrow knowledge domain. We explore this task with a clinical corpus consisting of 200 breast cancer follow-up treatment letters in which 16 distinct types of relations are annotated. We experiment with an approach to extracting typed relations called window-bounded co-occurrence (WBC), which uses an adjustable context window around entity mentions of a relevant type, and compare its performance with a more typical intra- sentential co-occurrence baseline. We further introduce a new bag-of-concepts (BoC) approach to feature engineering based on the state-of-the-art word embeddings and word synonyms. We demonstrate the competitiveness of BoC by comparing with methods of higher complexity, and explore its effectiveness on this small dataset.
+Situation: NCBI Gene contains millions of gene ontology (GO) annotations, but many records include inconsistent or low-quality metadata, and no existing method can evaluate annotation quality at scale.
+
+Task: Develop an automated system that can identify poor-quality GO annotations by leveraging both the semantic information in biomedical literature and the structural knowledge in the GO graph.
+
+Action: Redesigned the backbone of a BERT-based transformer model and integrated it with a Graph Neural Network to jointly model distributional semantics and graph topology. Built the end-to-end system in PyTorch using the HuggingFace Transformers framework, including data preprocessing, GO graph construction, and large-scale evaluation pipelines tailored to biological databases.
+
+Result: Delivered a state-of-the-art quality-assessment model capable of detecting major annotation issues across NCBI Gene, providing the first scalable and effective automated QA solution for GO annotations.
+
+Tech stack: Transformer, BERT, GNN, PyTorch, HuggingFace.
+
+https://findanexpert.unimelb.edu.au/project/104203-automated-assessment-of-data-quality-in-biological-knowledge-resources
