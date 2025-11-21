@@ -15,7 +15,7 @@ I acquired PhD 🎓 from the University of Melbourne, supervised by [A/Prof. Nic
 
 My research focuses on the practical applications of NLP and large language models (LLMs) to address real-world challenges in healthcare. I’ve developed automatic solutions for extracting key information from electronic breast cancer follow-up treatment records, accelerating clinical research and decision-making. I also created an NLP-based automated quality assessment system for biological databases, enhancing the reliability of gene and protein function knowledge to support protein research. Additionally, I proposed an innovative approach to integrate bio-ontologies into machine learning frameworks, significantly improving the accuracy of gene function data quality assessments.
 
-At CSIRO, I led efforts to improve the explainability of LLMs for suicide ideation prediction in mental health, and directed a team in comprehensive evaluations of LLMs on affective computing tasks, including cross-lingual and cross-cultural emotion detection and time-series valence/arousal regression. I supervise researchers from national key research labs of other countries, leading projects that involve close cross-national, cross-institutional, and cross-domain collaboration. Currently, I’m working on an scientific exploratory research project that aims to assist clinical psychologists in identifying emotion regulation patterns from large-scale social media data, finding effective ways to help people build resilience for mental health.
+At CSIRO, I led efforts to improve the explainability of LLMs safeguard for suicide ideation prediction on social media. I also lead a team to work on the comprehensive evaluations of LLMs on a range of affective computing tasks, including cross-lingual and cross-cultural emotion detection and temporal sentiment regression. I provide supervision to researchers from corporate/major government of other countries, supporting projects that involve close cross-national, cross-institutional, and cross-domain collaboration. Currently, I’m working on a scientific exploratory research project that aims to assist clinical psychologists to find emotion regulation patterns from large-scale social media data, composing effective strategies to help people build resilience for mental health.
 
 
 📩 Contact Me in
@@ -27,20 +27,18 @@ Experiences 🤓
 * Ph.D. in Computing (*NLProc*), University of Melbourne, Melbourne, *2020 - 2023*
 * M.Sc. in Computer Science, University of Melbourne, Melbourne, *2017 - 2019*
 
-Service and Leadership
+Service and Leadership ☸️
 ======
 * Reviewer for ACL Rolling Review ([ARR](https://aclrollingreview.org)), the Web Conference (WWW).
 * Supervisor of internship project at CSIRO.
 * Data science lead of annual participation of semantic evaluation shared task [Details](https://semeval.github.io)
 * Editor of our research team's [social web page](https://research.csiro.au/lasc).
 
-
-
   
 Miscellaneous
 ======
-* [Member of International Society for Computational Biology (*ISCB*)](https://www.iscb.org/index.php)
-* [Member of Association for Computational Linguistics (*ACL*)](https://www.aclweb.org/portal/)
+* [Member of the International Society for Computational Biology (*ISCB*)](https://www.iscb.org/index.php)
+* [Member of the Association for Computational Linguistics (*ACL*)](https://www.aclweb.org/portal/)
 
 Where to CatchMe ☕
 ======
@@ -54,5 +52,8 @@ Where to CatchMe ☕
 * [Presented at the 14th Annual Biocuration Conference, *Session 2, 2021*](https://www.biocuration.org/14th-annual-biocuration-conference-virtual/)
 * [Close envolvement within the Melbourne NLP Group](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing)
 
-<a href="https://info.flagcounter.com/2o8I"><img src="https://s01.flagcounter.com/count/2o8I/bg_FFFFFF/txt_000000/border_FFFFFF/columns_5/maxflags_12/viewers_Hits/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+Visitors of this site
+======
+<a href="https://info.flagcounter.com/2o8I"><img src="https://s01.flagcounter.com/map/2o8I/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_1/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/2o8I"><img src="https://s01.flagcounter.com/count/2o8I/bg_FFFFFF/txt_000000/border_FFFFFF/columns_5/maxflags_12/viewers_3/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
