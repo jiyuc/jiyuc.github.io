@@ -42,14 +42,15 @@ Miscellaneous
 Where to CatchMe ☕
 ======
 *upcoming*
-* [Attending (virtually) the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, Mumbai India, 20-25 December 2025](https://2025.aaclnet.org/)
+* TBC
 
 *past*
+* [Presented the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics, Mumbai India, 20-25 December 2025](https://2025.aaclnet.org/)
 * [Attended the 23rd Annual Workshop of the Australasian Language Technology Association, Sydney, 26th -28th November 2025](https://alta2025.alta.asn.au/)
 * [Presented at the 2024 ISMB conference](https://www.iscb.org/ismb2024/programme-schedule/scientific-programme/bio-ontologies)
-* [Visited the National Institute of Health (NIH/NLM/NCBI), USA, 2023](https://www.ncbi.nlm.nih.gov/research/bionlp/)
+* [Presented the National Institute of Health (NIH/NLM/NCBI), USA, 2023](https://www.ncbi.nlm.nih.gov/research/bionlp/)
 * [Presented at the 14th Annual Biocuration Conference, *Session 2, 2021*](https://www.biocuration.org/14th-annual-biocuration-conference-virtual/)
-* [Close envolvement within the Melbourne NLP Group](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing)
+* [Melbourne NLP Group](https://cis.unimelb.edu.au/research/artificial-intelligence/research/Natural-Language-Processing)
 
 Visitors of this site
 ======
