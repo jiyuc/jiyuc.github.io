@@ -10,19 +10,23 @@ redirect_from:
 {% include base_path %}
 
 
-I am a postdoc research fellow @ [CSIRO's Data61](https://people.csiro.au/c/j/jiyu-chen), the national scientific research institute of Australia. I am working with [Dr. Cecile Paris](https://people.csiro.au/p/c/cecile-paris), [Dr. Sarvnaz Karimi](https://people.csiro.au/K/S/Sarvnaz-Karimi), and [Dr. Diego Molla-Aliod](https://researchers.mq.edu.au/en/persons/diego-molla-aliod/) in the [Language Technology Team](https://research.csiro.au/lasc/).
-I acquired PhD 🎓 from the University of Melbourne, supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Dr. Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en). 
+I am a postdoctoral applied scientist at [CSIRO's Data61](https://www.csiro.au), the national scientific research institute of Australia. I work with [Dr. Cecile Paris](https://people.csiro.au/p/c/cecile-paris), [Dr. Sarvnaz Karimi](https://people.csiro.au/K/S/Sarvnaz-Karimi), and [Dr. Diego Molla-Aliod](https://researchers.mq.edu.au/en/persons/diego-molla-aliod/) in the [Language Technology Team](https://research.csiro.au/lasc/).
+I acquired PhD in Natural Language Processing 🎓 from the University of Melbourne, supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Dr. Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en). 
 
-My research focuses on the practical applications of NLP and large language models (LLMs) to address real-world challenges. I’ve developed automatic solutions for extracting key information from electronic breast cancer follow-up treatment records 📄, accelerating clinical research and decision-making. I also created an NLP-based automated quality assessment system for biological databases 🧬, enhancing the reliability of gene and protein function knowledge to support protein research. Additionally, I proposed an innovative approach to integrate bio-ontologies into machine learning frameworks, significantly improving the accuracy of gene function data quality assessments 🔍.
+My research focuses on **applying NLP and large language models (LLMs) techniques for addressing real-world challenges**. Since 2020, I have developed automated methods for extracting key information from electronic medical records (EMRs) and hospital discharge notes, thereby supporting more efficient clinical research and improving outpatient care 📄. I have also designed an automated quality assessment framework for biological databases, enhancing the reliability of stored knowledge for genomic research. At the algorithmic level, I have proposed a novel approach that integrates knowledge graph diffusion with distributional semantics, enabling more precise natural language understanding in domains requiring nuanced, context-sensitive interpretation. 🔍.
 
-At CSIRO, I led efforts to improve the explainability of LLMs safeguard🛡️for suicide ideation prediction on social media. I also lead a team to work on the comprehensive evaluations of LLMs on a range of affective computing tasks, including cross-lingual and cross-cultural emotion detection and temporal sentiment regression. I provide supervision to researchers from corporate/major government of other countries, supporting projects that involve close cross-national, cross-institutional, and cross-domain collaboration. Currently, I’m working on a scientific exploratory research project, aiming to assisting clinical psychologists in the discovery of novel emotion regulation patterns from large-scale social media data and compose effective strategies to help people build resilience for mental health ❤️. `We live in an era which encourages people to use emojis`.
+In my current role at CSIRO, I lead efforts to enhance the explainability of LLMs, with a focus on their use as safeguards 🛡️ in predicting suicide ideation on social media. I also lead a team conducting comprehensive evaluations of LLMs across a range of affective computing tasks, including cross-lingual and cross-cultural emotion detection, as well as temporal sentiment regression. In addition, I supervise researchers from industry and major government organizations across multiple countries, supporting projects that require close collaboration across national, institutional, and disciplinary boundaries.
+
+Currently, I am engaged in an exploratory scientific research project aimed at assisting clinical psychologists in identifying novel emotion regulation patterns from large-scale social media data, and in developing effective strategies to support resilience and improve mental health outcomes ❤️.
+
+`We live in an era which encourages people to use emojis`.
 
 >📩 Contact Me in
-English or *简中*
+English or Simplified Chinese (*简中*)
 
 Experiences 🤓 
 ======
-* Research fellow at CSIRO's Data61, Sydney, *2023 - present*
+* Postdoctoral Applied Scientist at CSIRO's Data61, Sydney, *2023 - present*
 * Ph.D. in Computing (*NLProc*), University of Melbourne, Melbourne, *2020 - 2023*
 * M.Sc. in Computer Science, University of Melbourne, Melbourne, *2017 - 2019*
 
