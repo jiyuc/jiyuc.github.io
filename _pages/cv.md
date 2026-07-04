@@ -10,23 +10,20 @@ redirect_from:
 {% include base_path %}
 
 
-I am a postdoctoral applied scientist at [CSIRO's Data61](https://www.csiro.au), the national scientific research institute of Australia. I work with [Dr. Cecile Paris](https://people.csiro.au/p/c/cecile-paris), [Dr. Sarvnaz Karimi](https://people.csiro.au/K/S/Sarvnaz-Karimi), and [Dr. Diego Molla-Aliod](https://researchers.mq.edu.au/en/persons/diego-molla-aliod/) in the [Language Technology Team](https://research.csiro.au/lasc/).
-I acquired PhD in Natural Language Processing 🎓 from the University of Melbourne, supervised by [A/Prof. Nicholas Geard](https://sites.google.com/site/nicgeard), [Prof. Karin Verspoor](https://scholar.google.com/citations?hl=en&user=dUxHnbcAAAAJ), [Prof. Justin Zobel](https://scholar.google.com/citations?user=uEHvqE8AAAAJ&hl=en), and [Dr. Benjamin Goudey](https://scholar.google.com.au/citations?user=OiHpCBoAAAAJ&hl=en). 
+I am a Data Scientist (AI Agent R&D) at [Suncorp Group](https://www.suncorp.com.au), leading AI transformation for the natural perils pricing. My work sits at the intersection of insurance, geo- and climate science, and AI agent engineering — translating cutting-edge AI research into production systems for climate risk and pricing decisions.
 
-My research focuses on **applying NLP and large language models (LLMs) techniques for addressing real-world challenges**. Since 2020, I have developed automated methods for extracting key information from electronic medical records (EMRs) and hospital discharge notes, thereby supporting more efficient clinical research and improving outpatient care 📄. I have also designed an automated quality assessment framework for biological databases, enhancing the reliability of stored knowledge for genomic research. At the algorithmic level, I have proposed a novel approach that integrates knowledge graph diffusion with distributional semantics, enabling more precise natural language understanding in domains requiring nuanced, context-sensitive interpretation. 🔍.
+Previously, I was a postdoctoral applied scientist at [CSIRO's Data61](https://www.csiro.au), Australia's national scientific research institute, where I led applied NLP research across healthcare and affective computing — applying LLMs and language technology to real-world, high-stakes problems. I supervised and mentored junior data scientist, and led CSIRO's annual participation in [Semantic Evaluation](https://semeval.github.io) shared tasks. Beyond my industry role, I remain active in the NLP research community as a reviewer for [ACL Rolling Review (ARR)](https://aclrollingreview.org).
 
-In my current role at CSIRO, I lead efforts to enhance the explainability of LLMs, with a focus on their use as safeguards 🛡️ in predicting suicide ideation on social media. I also lead a team conducting comprehensive evaluations of LLMs across a range of affective computing tasks, including cross-lingual and cross-cultural emotion detection, as well as temporal sentiment regression. In addition, I supervise researchers from industry and major government organizations across multiple countries, supporting projects that require close collaboration across national, institutional, and disciplinary boundaries.
+I hold a PhD in Natural Language Processing 🎓 from the University of Melbourne, where my research also spanned inter-disciplinary applications in computational linguistics and computational biology (BioNLP).
 
-Currently, I am engaged in an exploratory scientific research project aimed at assisting clinical psychologists in identifying novel emotion regulation patterns from large-scale social media data, and in developing effective strategies to support resilience and improve mental health outcomes ❤️.
-
-`We live in an era which encourages people to use emojis`.
 
 >📩 Contact Me in
 English or Simplified Chinese (*简中*)
 
 Experiences 🤓 
 ======
-* Postdoctoral Applied Scientist at CSIRO's Data61, Sydney, *2023 - present*
+* Data Scientist - AI Agent R&D at Suncorp Group, Sydney, *April 2026 - present*
+* Postdoctoral Applied Scientist at CSIRO's Data61, Sydney, *2023 - 2026*
 * Ph.D. in Computing (*NLProc*), University of Melbourne, Melbourne, *2020 - 2023*
 * M.Sc. in Computer Science, University of Melbourne, Melbourne, *2017 - 2019*
 
